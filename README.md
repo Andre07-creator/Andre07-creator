@@ -1,5 +1,5 @@
 ### Hi guys  👋😊
-
+---
 <!--
 **Andre07-creator/Andre07-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Desenvolvedor backend💻 🔙
-Conhecimentos:
+***Desenvolvedor backend***💻 🔙
 
+Conhecimentos:
 * JavaScript
 * Node js
 * Typescript
 * Bootstrap
 * Html e Css
+
 
