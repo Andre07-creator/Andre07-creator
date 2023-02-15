@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 #### Conhecimentos:
 
 <img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />      <img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<div>
+<a href="https://github.com/Andre07-creator">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre07-creator &layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre07-creator &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
