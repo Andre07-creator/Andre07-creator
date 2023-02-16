@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 ---
 #### Technologies with which I had contact:
  
- <img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+ <img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><img height=100 with=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-
 ---
 
 <div>
