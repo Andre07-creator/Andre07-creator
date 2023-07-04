@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Backend developer 💻 🔙
+### Frontend developer 💻 🔙
 
 #### Technologies I use:
 
